@@ -1,1 +1,1 @@
-print(;Nē;)
+print("Mans pirmais commit!")
