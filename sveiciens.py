@@ -1,1 +1,1 @@
-print(;Mans pirmhuuuhg!;)
+print(;Nē;)
