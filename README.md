@@ -2,6 +2,6 @@
 Autors: **ufogelis-glitch**
 ## Kā palaist
 **es gribu**
--uzspied pogu palaist
--apstiprini
+- uzspied pogu palaist
+- apstiprini
 ## Licence
