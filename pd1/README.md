@@ -1,0 +1,6 @@
+# Uldis Fogelis
+## Palaišana
+## Ergonomika
+- 
+- 
+- 
